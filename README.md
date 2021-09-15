@@ -1,1 +1,53 @@
-# Intel-Image-Flask-App-Using-DL
+<div align="center"> <img src="Screenshots/main.png" width="400" height="250"> </center> </div>
+
+<i>
+  <h2> <i> Intel Image Classification </i> </h2>
+<p><i> IN THIS PROJECT. WE WILL BE WORKING ON INTEL IMAGES I.E. IMAGES OF BUILDINGS, FOREST. STREET, ETC. WE WILL BUILD A CONVOLUTIONAL NEURAL NETWORK AND TRAIN IT ON THESE IMAGES. THIS IS A MULTI-CLASS CLASSIFICATION PROBLEM AND WE WILL USE KERAS.</p>
+
+<br>
+ 
+
+<br>
+
+
+  <h2> The Steps to solve the problem </h2>
+
+<p>
+
+1. MOUNTING GOOGLE DRIVE ON COLLAB NOTEBOOK. <br>
+2. VISUALIZING THE IMAGES THAT WE WILL BE WORKING ON. <br>
+3. ANALYZING THE DIMESNIONS TO VERIFY IF ALL IMAGES HAVE SAME DIMENSIONS. <br>
+4. CONVERTING THE IMAGES INTO A NUMPY ARRAY AND NORMALIZE THEM. <br>
+5. CHECKING CLASS IMBALANCE. <br>
+6. SPLITTING THE DATA AND PERFORMING ONE-HOT ENCODING. <br>
+7. CREATING THE MODEL ARCHITECTURE, COMPILING THE MODEL AND THEN FITTING IT. <br>
+8. PLOTTING THE ACCURACY AND LOSS AGAINST EACH EPOCH. <br>
+9. PREPROCESSING THE TEST DATA AND MAKE PREDICTIONS ON IT. <br>
+10. VISUALIZING THE ORIGINAL AND PREDICTED LABELS FOR THE TEST IMAGES. </p>
+  
+<br><br>
+<p><i>THIS PROJECT CAN BE USED FOR EDUCATIONAL PURPOSES TO GET A BETTER UNDERSTANDING OF HOW TO CREATE NETWORK ARCHITECTURE FOR A CNN MODEL. YOU CAN FURTHER HYPERPARAMETER TUNE THIS MODEL TO REACH HIGHER ACCURACY.
+
+THIS PROJECT HAS A VAST SCOPE, IT CAN BE USED TO CLASSIFY SATELLITE IMAGES, DRONE IMAGES, GOOGLE IMAGES INTO DIFFERENT CLASSES LIKE SEA, MOUNTAIN, ETC. </p>
+  <br> <br>
+  
+  <h2> <i>Flask Web App  </i> </h2>
+<p><i>SThis is the second part where we build the web application using the framework Flask We mount the model we build in the previous part on the Flask project</p>
+  <br> <br>
+  
+  
+  <h1> Screenshots </h1>
+  <h2> Input Screen </h2>
+<img src="Screenshots/Screenshot (1).png" /> 
+
+  
+  <br><br>
+  
+<h2> Output Screen </h2> 
+
+  <img src="Screenshots/Screenshot (2).png" /> 
+  <br><br>
+
+
+
+### Give It a Star if you liked the project 
